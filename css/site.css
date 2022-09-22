@@ -1,0 +1,155 @@
+body {
+    background-image: url(../imagens/fundo-branco.png);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgb(61, 0, 158);
+    border-style:outset;
+}
+
+.Bloco {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Portfolio {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    padding: 10px;
+    width: 150px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(61, 0, 158);
+}
+
+.Hobbie {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15px;
+    padding: 10px;
+    width: 150px;
+    margin-left: 12%;
+    background-color: rgb(50, 50, 50);
+    color: rgb(255, 255, 255);
+}
+
+.Contato {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    border-radius: 10%;
+    margin: 10px;
+    padding: 4px;
+    background-color: rgb(50, 50, 50);
+    color: rgb(61, 0, 158);
+    margin-left: 8%;
+}
+
+.formulario {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15px;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(50, 50, 50);
+    color: white;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+
+
+img {
+    width: 850px;
+    height: 250px;
+    margin-top: 40px;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+}
+
+.prog {}
+
+.musc {}
+
+
+
+.QM {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(50, 50, 50);
+    color: white;
+    margin-top: 80px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    border: 100%;
+}
+
+
+
+.Texto {
+    margin-top: 50px;
+    display: flex;
+    justify-content: stretch;
+    text-align: justify;
+    
+}
+
+.txt1{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    width:33%;
+    border: 1px solid black;
+    padding: 3px;
+}
+.txt2{
+    display: flex;
+    justify-content: center;
+    width:33%;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 3px;
+}
+.txt3{
+    display: flex;
+    justify-content: center;
+    width:33%;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 3px;
+
+}
+
+
+
+.ctt {
+    display: flex;
+    justify-content: center;
+    margin-top: center;
+}
+
+.Titulo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-block-start: 150px;
+    height: 15px;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(50, 50, 50);
+    color: white;
+
+}
