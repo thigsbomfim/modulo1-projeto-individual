@@ -1,8 +1,6 @@
 body {
     background-image: url(../imagens/fundo-branco.png);
     backdrop-filter: blur(10px);
-    border: 1px solid rgb(61, 0, 158);
-    border-style:outset;
 }
 
 .Bloco {
@@ -152,4 +150,14 @@ img {
     background-color: rgb(50, 50, 50);
     color: white;
 
+}
+.formul {
+    display: flex;
+    justify-content: stretch;
+
+}
+.formu{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
 }
